@@ -1,8 +1,4 @@
-# Vite Three Starter
-
-Quick and light three.js starter project made with vite
-
-[Live demo](https://vite-three-starter.vercel.app/)
+# Vite Three Cannon-es: Cloth Simulation
 
 ## Setup
 
